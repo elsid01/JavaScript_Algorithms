@@ -1,6 +1,6 @@
 import LinkedListNode from "./LinkedListNode";
 
-export default class LinkList{
+export default class LinkedList{
  
   
   constructor(){
