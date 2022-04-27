@@ -17,7 +17,7 @@ export default class LinkedList{
       this.tail = newNode;
     }
 
-    return this
+    return this;
   }
 
   append(value){
